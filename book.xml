@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE book SYSTEM "book.dtd">
+
+<?xml-stylesheet type="text/xsl" href="book.xsl"?>
+
+<book xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="book.xsd">
+
+    <title>Web Technology</title>
+    <author>John Smith</author>
+    <isbn>9781234567890</isbn>
+    <publisher>ABC Publications</publisher>
+    <edition>3</edition>
+    <price>450</price>
+
+</book>
